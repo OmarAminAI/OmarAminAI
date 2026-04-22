@@ -24,7 +24,7 @@ I build **AI-powered and software-driven products** across **healthcare, educati
 - 🛠 Focused on **maintainable code, secure integrations, and production-minded solutions**
 - 🌍 Passionate about building AI systems that users can trust
 
-📄 [Visit My LinkedIn Profile](https://www.linkedin.com/in/omar-sadek-307430239/)
+📄 [Check out my resume](https://drive.google.com/file/d/1BQ1HFc7WbQlu4X8LtOBC1GoQOquuRuNn/view?usp=drive_link)
 
 ---
 
