@@ -12,17 +12,17 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m an **Artificial Intelligence Engineer** based in **Alexandria, Egypt**, with a **Bachelor of Engineering in Computer Science – Artificial Intelligence Engineering** from **Alamein International University**.
 
 I build **AI-powered and software-driven products** across **healthcare, education, and gaming**, with a strong focus on **applied machine learning, LLM-based applications, backend systems, and real-world usability**.
 
-- 🎓 Graduate in **Computer Science – Artificial Intelligence Engineering**
-- 🤖 Interested in **Applied AI, Machine Learning, LLMs, RAG, and intelligent systems**
-- 💻 Strong with **Python, C++, Java, PyTorch, FastAPI, Unity, and MySQL**
-- 🛠 Focused on **maintainable code, secure integrations, and production-minded solutions**
-- 🌍 Passionate about building AI systems that users can trust
+-  Graduate in **Computer Science – Artificial Intelligence Engineering**
+-  Interested in **Applied AI, Machine Learning, LLMs, RAG, and intelligent systems**
+-  Strong with **Python, C++, Java, PyTorch, FastAPI, Unity, and MySQL**
+-  Focused on **maintainable code, secure integrations, and production-minded solutions**
+-  Passionate about building AI systems that users can trust
 
 📄 [Check out my resume](https://drive.google.com/file/d/1BQ1HFc7WbQlu4X8LtOBC1GoQOquuRuNn/view?usp=drive_link)
 
@@ -43,11 +43,11 @@ I build **AI-powered and software-driven products** across **healthcare, educati
 
 ## 🧠 Featured Projects
 
-- 🩺 **SEKMED** — AI-powered medical assistant for **symptom analysis, triage, personalized recommendations, and Fitbit-based real-time monitoring**
-- 💡 **CodeWise** — LLM-powered web app for **code explanation, bug fixing, and natural-language-to-code generation**
-- 🚗 **Carveo** — AI web app using **Azure OpenAI GPT-4** to extract structured vehicle data from natural language into **JSON**
-- 💬 **Chat-Room** — Real-time communication application built with **Java, GUI, sockets, multithreading, and MySQL**
-- 🎮 **AI Problem-Solving Game** — Unity-based educational game enhanced with **AutoGEN API integration**
+-  **SEKMED** — AI-powered medical assistant for **symptom analysis, triage, personalized recommendations, and Fitbit-based real-time monitoring**
+-  **CodeWise** — LLM-powered web app for **code explanation, bug fixing, and natural-language-to-code generation**
+-  **Carveo** — AI web app using **Azure OpenAI GPT-4** to extract structured vehicle data from natural language into **JSON**
+-  **Chat-Room** — Real-time communication application built with **Java, GUI, sockets, multithreading, and MySQL**
+-  **AI Problem-Solving Game** — Unity-based educational game enhanced with **AutoGEN API integration**
 
 ---
 
@@ -118,11 +118,11 @@ I build **AI-powered and software-driven products** across **healthcare, educati
 
 ## ⚡ Developer Snapshot
 
-- 🔭 Currently focused on: **Applied AI systems, LLM-powered tools, and backend-driven intelligent products**
-- 🌱 Continuously learning: **advanced ML systems, scalable deployment, and trustworthy AI practices**
-- 💡 Exploring: **Healthcare AI, secure LLM workflows, and RAG-based applications**
-- 🧩 Favorite Stack: **Python + FastAPI + PyTorch + LLM APIs**
-- 🏆 Highlight: Ranked **40th out of 180+ teams** in **ICPC ECPC 2021**
+-  Currently focused on: **Applied AI systems, LLM-powered tools, and backend-driven intelligent products**
+-  Continuously learning: **advanced ML systems, scalable deployment, and trustworthy AI practices**
+-  Exploring: **Healthcare AI, secure LLM workflows, and RAG-based applications**
+-  Favorite Stack: **Python + FastAPI + PyTorch + LLM APIs**
+-  Highlight: Ranked **40th out of 180+ teams** in **ICPC ECPC 2021**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarAminAI&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
