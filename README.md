@@ -43,7 +43,7 @@ I build LLM-powered applications and backend services, with an emphasis on retri
 ### [Mindexio](https://www.mindexio.com/)
 Live AI application I built using **Python, FastAPI, LangChain, LangGraph, ChromaDB, PostgreSQL, Redis, Celery, and Docker**. It demonstrates end-to-end LLM/RAG application development.
 
-### SEKMED - Healthcare RAG Assistant
+### [SEKMED - Healthcare RAG Assistant] (https://sekmed.vercel.app/)
 Built a FastAPI-based retrieval-augmented application using **Pinecone** and LLM APIs for healthcare information workflows.
 
 ### Carveo - Structured Vehicle Data Extraction
