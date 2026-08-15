@@ -41,16 +41,16 @@ I build LLM-powered applications and backend services, with an emphasis on retri
 ## Featured AI Projects
 
 ### [Mindexio](https://www.mindexio.com/)
-Live AI application I built using **Python, FastAPI, LangChain, LangGraph, ChromaDB, PostgreSQL, Redis, Celery, and Docker**. It demonstrates end-to-end LLM/RAG application development.
+Live AI learning workspace I built for students to upload study material, chat with a context-aware tutor, search their own content, and generate study artifacts such as quizzes and flashcards. The platform uses **Next.js, FastAPI, LangChain, LangGraph, PostgreSQL, ChromaDB, Redis, Celery, Docker, and Caddy**. Uploads are processed asynchronously: files are extracted, chunked, embedded, indexed in ChromaDB, and then retrieved as grounded context for streamed tutor responses and persistent study conversations.
 
-### [SEKMED - Healthcare RAG Assistant](https://sekmed.vercel.app/)
-Built a FastAPI-based retrieval-augmented application using **Pinecone** and LLM APIs for healthcare information workflows.
+### [SEKMED](https://github.com/OmarAminAI/SEKMED-front) - Healthcare RAG and Triage Assistant
+Co-built as a graduation project, SEKMED is an AI-assisted medical-information platform for typed or speech-to-text symptom input, optional Fitbit vitals, triage guidance, specialist recommendations, and emergency/report workflows. Its **FastAPI** backend validates requests with Pydantic, embeds symptoms using **all-MiniLM-L6-v2**, retrieves relevant medical context from two **Pinecone** indexes, and sends the grounded context to **LLaMA through Groq**. The React frontend uses Tailwind CSS and Material UI. The system is designed to provide cautious information and triage guidance, not definitive medical diagnoses.
 
-### Carveo - Structured Vehicle Data Extraction
-Built an Azure OpenAI GPT-4 application that extracts structured vehicle data from natural-language input into JSON, using Pydantic validation and prompt-injection guardrails.
+### [Carveo](https://github.com/OmarAminAI/Carveo) - AI Vehicle Listing Platform
+Built a Python and Streamlit application that uses **Azure OpenAI GPT-4** to extract structured vehicle details from free-text descriptions. It validates and sanitizes user input to reduce prompt-injection risk, produces JSON listing data, accepts vehicle images, and sends formatted listings by email with JSON attachments.
 
-### CodeWise - AI Developer Tool
-LLM-powered web application for code explanation, bug fixing, and natural-language-to-code workflows.
+### [CodeWise](https://github.com/OmarAminAI/CodeWise) - AI Codebase Intelligence Platform
+LLM/RAG developer platform for ingesting GitHub repositories, chunking and embedding source files, building semantic indexes, and chatting with an entire codebase. It supports context-aware debugging, code analysis, architecture exploration, saved chat sessions, and OpenAI/Azure OpenAI, Hugging Face, or local Ollama inference through a Python/Flask REST backend.
 
 ### AI Problem-Solving Game
 Unity educational game enhanced with Microsoft AutoGen agent integration through backend APIs.
