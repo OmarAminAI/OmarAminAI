@@ -43,7 +43,7 @@ I build LLM-powered applications and backend services, with an emphasis on retri
 ### [Mindexio](https://www.mindexio.com/)
 Live AI learning workspace I built for students to upload study material, chat with a context-aware tutor, search their own content, and generate study artifacts such as quizzes and flashcards. The platform uses **Next.js, FastAPI, LangChain, LangGraph, PostgreSQL, ChromaDB, Redis, Celery, Docker, and Caddy**. Uploads are processed asynchronously: files are extracted, chunked, embedded, indexed in ChromaDB, and then retrieved as grounded context for streamed tutor responses and persistent study conversations.
 
-### [SEKMED](https://github.com/OmarAminAI/SEKMED-front) - Healthcare RAG and Triage Assistant
+### [SEKMED](https://sekmed.vercel.app/) - Healthcare RAG and Triage Assistant
 Co-built as a graduation project, SEKMED is an AI-assisted medical-information platform for typed or speech-to-text symptom input, optional Fitbit vitals, triage guidance, specialist recommendations, and emergency/report workflows. Its **FastAPI** backend validates requests with Pydantic, embeds symptoms using **all-MiniLM-L6-v2**, retrieves relevant medical context from two **Pinecone** indexes, and sends the grounded context to **LLaMA through Groq**. The React frontend uses Tailwind CSS and Material UI. The system is designed to provide cautious information and triage guidance, not definitive medical diagnoses.
 
 ### [Carveo](https://github.com/OmarAminAI/Carveo) - AI Vehicle Listing Platform
