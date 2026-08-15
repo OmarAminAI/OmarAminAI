@@ -1,157 +1,121 @@
-<h1 align="center">Hi, I'm Omar Amin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Omar Amin</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence+Engineer;AI+%26+Software+Developer;Building+trustworthy+and+impactful+AI+solutions;Applied+ML+%7C+LLMs+%7C+Backend+Systems&font=Fira%20Code&center=true&width=1000&height=50&duration=8000&pause=1000" alt="Omar Amin">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+%7C+LLM+Applications+%7C+RAG;Python+%7C+FastAPI+%7C+LangChain+%7C+LangGraph;Building+practical+and+trustworthy+AI+systems&font=Fira%20Code&center=true&width=900&height=50&duration=5000&pause=1200" alt="Omar Amin - AI Engineer" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omar-sadek-307430239/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/OmarAminAI"><img src="https://img.shields.io/badge/GitHub-Explore_Code-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="mailto:omar.elh.amin@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/omar-sadek-307430239/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/OmarAminAI"><img src="https://img.shields.io/badge/GitHub-OmarAminAI-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:omar.elh.amin@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-##  About Me
+## About Me
 
-I’m an **Artificial Intelligence Engineer** based in **Alexandria, Egypt**, with a **Bachelor of Engineering in Computer Science – Artificial Intelligence Engineering** from **Alamein International University**.
+I am an AI Engineer based in Alexandria, Egypt, with a Bachelor of Engineering in Computer Science - Artificial Intelligence Engineering from Alamein International University.
 
-I build **AI-powered and software-driven products** across **healthcare, education, and gaming**, with a strong focus on **applied machine learning, LLM-based applications, backend systems, and real-world usability**.
+I build LLM-powered applications and backend services, with an emphasis on retrieval-augmented generation, agent workflows, API design, structured outputs, and practical AI products.
 
--  Graduate in **Computer Science – Artificial Intelligence Engineering**
--  Interested in **Applied AI, Machine Learning, LLMs, RAG, and intelligent systems**
--  Strong with **Python, C++, Java, PyTorch, FastAPI, Unity, and MySQL**
--  Focused on **maintainable code, secure integrations, and production-minded solutions**
--  Passionate about building AI systems that users can trust
-
-📄 [Check out my resume](https://drive.google.com/file/d/1BQ1HFc7WbQlu4X8LtOBC1GoQOquuRuNn/view?usp=drive_link)
+- Open to remote work and relocation
+- Native Arabic speaker and fluent English speaker
+- Interested in AI engineering, LLM applications, RAG, agent workflows, and backend systems
+- [View my resume](https://drive.google.com/file/d/1BQ1HFc7WbQlu4X8LtOBC1GoQOquuRuNn/view?usp=drive_link)
 
 ---
 
-## 💼 Experience Highlights
+## Experience Highlights
 
-- **AI Developer Intern @ Holistic Intelligence For Global Good / SeeChat X Prosper**  
-  Contributed to an **AI-powered problem-solving game** in **Unity**, integrating **AutoGEN via APIs** to enhance interactivity and critical-thinking gameplay.
+- **AI Software Engineering Intern | Holistic Intelligence for Global Good | Remote**  
+  Integrated Microsoft AutoGen agent workflows into a Unity problem-solving game through backend APIs. Improved reported gameplay responsiveness by 25% and reduced AI response latency by 30% through AI interaction and API workflow optimization.
 
-- **Java Developer Trainee @ Information Technology Institute (ITI)**  
-  Built a **real-time chat-room application** using **Java GUI, multithreading, sockets, and MySQL**, with a focus on backend logic and seamless communication.
+- **Software Engineering Trainee | Information Technology Institute (ITI) | Giza**  
+  Built a real-time Java chat application using GUI development, socket programming, multithreading, and MySQL authentication.
 
-- **Programming Instructor @ ECPC Community**  
-  Mentored students in **problem-solving and C++**, helping strengthen algorithmic thinking and competitive programming skills.
-
----
-
-## 🧠 Featured Projects
-
--  **SEKMED** — AI-powered medical assistant for **symptom analysis, triage, personalized recommendations, and Fitbit-based real-time monitoring**
--  **CodeWise** — LLM-powered web app for **code explanation, bug fixing, and natural-language-to-code generation**
--  **Carveo** — AI web app using **Azure OpenAI GPT-4** to extract structured vehicle data from natural language into **JSON**
--  **Chat-Room** — Real-time communication application built with **Java, GUI, sockets, multithreading, and MySQL**
--  **AI Problem-Solving Game** — Unity-based educational game enhanced with **AutoGEN API integration**
+- **Programming Instructor | ECPC Community**  
+  Mentored students in problem-solving and C++, strengthening algorithmic thinking and competitive-programming foundations.
 
 ---
 
-## 🔬 AI / ML Focus
+## Featured AI Projects
 
-- Applied Machine Learning
-- Large Language Models (LLMs)
+### [Mindexio](https://www.mindexio.com/)
+Live AI application I built using **Python, FastAPI, LangChain, LangGraph, ChromaDB, PostgreSQL, Redis, Celery, and Docker**. It demonstrates end-to-end LLM/RAG application development.
+
+### SEKMED - Healthcare RAG Assistant
+Built a FastAPI-based retrieval-augmented application using **Pinecone** and LLM APIs for healthcare information workflows.
+
+### Carveo - Structured Vehicle Data Extraction
+Built an Azure OpenAI GPT-4 application that extracts structured vehicle data from natural-language input into JSON, using Pydantic validation and prompt-injection guardrails.
+
+### CodeWise - AI Developer Tool
+LLM-powered web application for code explanation, bug fixing, and natural-language-to-code workflows.
+
+### AI Problem-Solving Game
+Unity educational game enhanced with Microsoft AutoGen agent integration through backend APIs.
+
+---
+
+## AI / LLM Focus
+
+- Large Language Models (LLMs) and LLM APIs
 - Retrieval-Augmented Generation (RAG)
-- Healthcare AI
-- Real-time AI systems
-- AI-assisted developer tools
-- AI safety and prompt-security
-- Interactive AI for games and education
+- Agent workflows with LangChain, LangGraph, and Microsoft AutoGen
+- Prompt engineering, structured outputs, validation, and guardrails
+- Vector search with ChromaDB and Pinecone
+- Arabic and English AI applications
+- Backend systems for AI products with FastAPI
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### **Languages**
+### AI, LLMs, and Backend
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **AI / Machine Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-### **Frameworks & Tools**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Machine Learning and Software Engineering
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **Cloud & Platforms**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![IoT Systems](https://img.shields.io/badge/IoT_Systems-00BFA6?style=for-the-badge)
-
-### **Software Engineering**
-![OOP](https://img.shields.io/badge/OOP-Programming-blue?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-FF4088?style=for-the-badge)
-![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge)
-![ISO 42001](https://img.shields.io/badge/ISO_42001-AI_Governance-4B5563?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarAminAI&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAminAI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=OmarAminAI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/OmarAminAI">
+    <img src="https://github-readme-stats.vercel.app/api?username=OmarAminAI&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Omar Amin's GitHub statistics" />
+  </a>
+  <a href="https://github.com/OmarAminAI?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAminAI&layout=donut&langs_count=8&theme=tokyonight&hide_border=true" alt="Most-used languages across Omar Amin's public repositories" />
   </a>
 </p>
 
----
-
-## ⚡ Developer Snapshot
-
--  Currently focused on: **Applied AI systems, LLM-powered tools, and backend-driven intelligent products**
--  Continuously learning: **advanced ML systems, scalable deployment, and trustworthy AI practices**
--  Exploring: **Healthcare AI, secure LLM workflows, and RAG-based applications**
--  Favorite Stack: **Python + FastAPI + PyTorch + LLM APIs**
--  Highlight: Ranked **40th out of 180+ teams** in **ICPC ECPC 2021**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarAminAI&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
+<p align="center"><sub>Language statistics reflect public repositories only; they are not a proficiency ranking.</sub></p>
 
 ---
 
-## 🏅 Certificates & Achievements
+## Achievement
 
-- **ICPC ECPC 2021** — Ranked **40th out of 180+ teams**, representing **Alamein International University**
+- **ICPC ECPC 2021** - Ranked **40th out of 180+ teams**, representing Alamein International University.
 
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/omar-sadek-307430239/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/OmarAminAI"><img src="https://img.shields.io/badge/GitHub-Explore_Code-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:omar.elh.amin@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" /></a>
-</p>
-
-<p align="center">
-  📍 Alexandria, Egypt &nbsp; | &nbsp; 📞 +20 102 347 8187
-</p>
-
----
-
-⭐️ *“Building AI systems that are practical, trustworthy, and impactful.”*
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OmarAminAI&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
+<p align="center"><i>Building AI systems that are practical, trustworthy, and impactful.</i></p>
