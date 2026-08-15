@@ -164,3 +164,6 @@ Unity educational game enhanced with Microsoft AutoGen agent integration through
 <p align="center">Alexandria, Egypt | +20 102 347 8187</p>
 
 <p align="center"><i>Building AI systems that are practical, trustworthy, and impactful.</i></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OmarAminAI&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
