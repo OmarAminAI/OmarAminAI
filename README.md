@@ -90,32 +90,77 @@ Unity educational game enhanced with Microsoft AutoGen agent integration through
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Programming-2563EB?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-FF4088?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
+
+### Cloud, Platforms, and Governance
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![IoT Systems](https://img.shields.io/badge/IoT_Systems-00BFA6?style=for-the-badge)
+![ISO 42001](https://img.shields.io/badge/ISO_42001-AI_Governance-4B5563?style=for-the-badge)
+![GUI](https://img.shields.io/badge/GUI-Development-6B7280?style=for-the-badge)
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/OmarAminAI">
-    <img src="https://github-readme-stats.vercel.app/api?username=OmarAminAI&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Omar Amin's GitHub statistics" />
+    <img src="https://github-readme-stats.vercel.app/api?username=OmarAminAI&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/OmarAminAI?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAminAI&layout=donut&langs_count=8&theme=tokyonight&hide_border=true" alt="Most-used languages across Omar Amin's public repositories" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAminAI&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
-<p align="center"><sub>Language statistics reflect public repositories only; they are not a proficiency ranking.</sub></p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=OmarAminAI&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
-## Achievement
+## Developer Snapshot
+
+- Currently focused on: **Applied AI systems, LLM-powered tools, backend services, and software engineering**
+- Continuously learning: **advanced ML systems, scalable deployment, and trustworthy AI practices**
+- Exploring: **healthcare AI, secure LLM workflows, and RAG-based applications**
+- Favorite stack: **Python + FastAPI + LangChain/LangGraph + LLM APIs**
+- Highlight: Ranked **40th out of 180+ teams** in **ICPC ECPC 2021**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarAminAI&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## Certificates and Achievements
 
 - **ICPC ECPC 2021** - Ranked **40th out of 180+ teams**, representing Alamein International University.
+
+---
+
+## Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-sadek-307430239/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/OmarAminAI"><img src="https://img.shields.io/badge/GitHub-OmarAminAI-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:omar.elh.amin@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">Alexandria, Egypt | +20 102 347 8187</p>
 
 <p align="center"><i>Building AI systems that are practical, trustworthy, and impactful.</i></p>
