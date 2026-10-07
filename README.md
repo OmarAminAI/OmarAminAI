@@ -22,7 +22,7 @@ I design and build LLM-powered applications, agentic workflows, and high-perform
 -  Open to remote engineering roles and relocation
 -  Native Arabic speaker and fluent English speaker
 -  Core focus: AI Engineering, Agentic Workflows (LangGraph, AutoGen), RAG Architecture, Backend Systems (FastAPI, Redis, Celery), and Kotlin/Android
-
+- [View my resume]([https://drive.google.com/file/d/1BQ1HFc7WbQlu4X8LtOBC1GoQOquuRuNn/view?usp=drive_link](https://drive.google.com/file/d/1unhCwygEbEtjUOlP5J1mkI_Ew7VvauHt/view?usp=drive_link))
 ---
 
 ## Experience Highlights
