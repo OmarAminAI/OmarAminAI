@@ -18,10 +18,10 @@ I am an **AI & Backend Software Engineer** based in Alexandria, Egypt, with a B.
 
 I design and build LLM-powered applications, agentic workflows, and high-performance backend systems with an emphasis on asynchronous RAG pipelines, API architecture, structured data validation, and scalable AI engineering.
 
-- 📍 Alexandria, Egypt
-- 🌐 Open to remote engineering roles and relocation
-- 💬 Native Arabic speaker and fluent English speaker
-- 🎯 Core focus: AI Engineering, Agentic Workflows (LangGraph, AutoGen), RAG Architecture, Backend Systems (FastAPI, Redis, Celery), and Kotlin/Android
+-  Alexandria, Egypt
+-  Open to remote engineering roles and relocation
+-  Native Arabic speaker and fluent English speaker
+-  Core focus: AI Engineering, Agentic Workflows (LangGraph, AutoGen), RAG Architecture, Backend Systems (FastAPI, Redis, Celery), and Kotlin/Android
 
 ---
 
