@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Omar Amin</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+%7C+LLM+Applications+%7C+RAG;Python+%7C+FastAPI+%7C+LangChain+%7C+LangGraph;Building+practical+and+trustworthy+AI+systems&font=Fira%20Code&center=true&width=900&height=50&duration=5000&pause=1200" alt="Omar Amin - AI Engineer" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Backend+Software+Engineer+%7C+LLM+Applications;Agentic+AI+%7C+RAG+%7C+FastAPI+%7C+LangGraph;Building+practical+and+production-grade+AI+systems&font=Fira%20Code&center=true&width=900&height=50&duration=5000&pause=1200" alt="Omar Amin - AI & Backend Software Engineer" />
 </p>
 
 <p align="center">
@@ -14,58 +14,66 @@
 
 ## About Me
 
-I am an AI Engineer based in Alexandria, Egypt, with a Bachelor of Engineering in Computer Science - Artificial Intelligence Engineering from Alamein International University.
+I am an **AI & Backend Software Engineer** based in Alexandria, Egypt, with a B.Sc. in Computer Science & Engineering (Artificial Intelligence) from Alamein International University (Graduated Jul 2025).
 
-I build LLM-powered applications and backend services, with an emphasis on retrieval-augmented generation, agent workflows, API design, structured outputs, and practical AI products.
+I design and build LLM-powered applications, agentic workflows, and high-performance backend systems with an emphasis on asynchronous RAG pipelines, API architecture, structured data validation, and scalable AI engineering.
 
-- Open to remote work and relocation
-- Native Arabic speaker and fluent English speaker
-- Interested in AI engineering, LLM applications, RAG, agent workflows, and backend systems
-- [View my resume](https://drive.google.com/file/d/1BQ1HFc7WbQlu4X8LtOBC1GoQOquuRuNn/view?usp=drive_link)
+- 📍 Alexandria, Egypt
+- 🌐 Open to remote engineering roles and relocation
+- 💬 Native Arabic speaker and fluent English speaker
+- 🎯 Core focus: AI Engineering, Agentic Workflows (LangGraph, AutoGen), RAG Architecture, Backend Systems (FastAPI, Redis, Celery), and Kotlin/Android
 
 ---
 
 ## Experience Highlights
 
-- **AI Software Engineering Intern | Holistic Intelligence for Global Good | Remote**  
-  Integrated Microsoft AutoGen agent workflows into a Unity problem-solving game through backend APIs. Improved reported gameplay responsiveness by 25% and reduced AI response latency by 30% through AI interaction and API workflow optimization.
+- **AI & Backend Software Engineer | Mindex | Remote** *(Aug 2025 -- Present)*  
+  Built a document-first AI learning workspace that ingests PDFs, Word documents, slides, and text, delivering context-aware tutoring, semantic search, and generated study materials. Designed an asynchronous RAG pipeline using **FastAPI, Celery, Redis, PostgreSQL/Prisma, and ChromaDB** for document extraction, chunking, embedding, vector retrieval, and streamed AI responses. Implemented JWT authentication, quota and subscription systems, task monitoring/reconciliation, SSE file status updates, WebSocket voice sessions, and an administrative ops console.
 
-- **Software Engineering Trainee | Information Technology Institute (ITI) | Giza**  
-  Built a real-time Java chat application using GUI development, socket programming, multithreading, and MySQL authentication.
+- **AI Software Engineering Intern | Holistic Intelligence for Global Good | Remote, USA** *(Jul 2024 -- Oct 2024)*  
+  Integrated Microsoft AutoGen agent workflows into a Unity-based AI problem-solving game through backend REST APIs. Developed AI dialogue, objective progression, challenge delivery, and player interaction systems using Unity and C#.
 
-- **Programming Instructor | ECPC Community**  
-  Mentored students in problem-solving and C++, strengthening algorithmic thinking and competitive-programming foundations.
-
----
-
-## Featured AI Projects
-
-### [Mindexio](https://www.mindexio.com/)
-Live AI learning workspace I built for students to upload study material, chat with a context-aware tutor, search their own content, and generate study artifacts such as quizzes and flashcards. The platform uses **Next.js, FastAPI, LangChain, LangGraph, PostgreSQL, ChromaDB, Redis, Celery, Docker, and Caddy**. Uploads are processed asynchronously: files are extracted, chunked, embedded, indexed in ChromaDB, and then retrieved as grounded context for streamed tutor responses and persistent study conversations.
-
-### [SEKMED](https://sekmed.vercel.app/) - Healthcare RAG and Triage Assistant
-Co-built as a graduation project, SEKMED is an AI-assisted medical-information platform for typed or speech-to-text symptom input, optional Fitbit vitals, triage guidance, specialist recommendations, and emergency/report workflows. Its **FastAPI** backend validates requests with Pydantic, embeds symptoms using **all-MiniLM-L6-v2**, retrieves relevant medical context from two **Pinecone** indexes, and sends the grounded context to **LLaMA through Groq**. The React frontend uses Tailwind CSS and Material UI. The system is designed to provide cautious information and triage guidance, not definitive medical diagnoses.
-
-### [Carveo](https://github.com/OmarAminAI/Carveo) - AI Vehicle Listing Platform
-Built a Python and Streamlit application that uses **Azure OpenAI GPT-4** to extract structured vehicle details from free-text descriptions. It validates and sanitizes user input to reduce prompt-injection risk, produces JSON listing data, accepts vehicle images, and sends formatted listings by email with JSON attachments.
-
-### [CodeWise](https://github.com/OmarAminAI/CodeWise) - AI Codebase Intelligence Platform
-LLM/RAG developer platform for ingesting GitHub repositories, chunking and embedding source files, building semantic indexes, and chatting with an entire codebase. It supports context-aware debugging, code analysis, architecture exploration, saved chat sessions, and OpenAI/Azure OpenAI, Hugging Face, or local Ollama inference through a Python/Flask REST backend.
-
-### AI Problem-Solving Game
-Unity educational game enhanced with Microsoft AutoGen agent integration through backend APIs.
+- **Software Engineering Trainee | Information Technology Institute (ITI) | Giza, Egypt** *(Feb 2022 -- Jun 2022)*  
+  Engineered a real-time Java desktop chat application using socket programming, multithreading, Java Swing, and MySQL with secure authentication, messaging, and database persistence.
 
 ---
 
-## AI / LLM Focus
+## Featured Projects
 
-- Large Language Models (LLMs) and LLM APIs
-- Retrieval-Augmented Generation (RAG)
-- Agent workflows with LangChain, LangGraph, and Microsoft AutoGen
-- Prompt engineering, structured outputs, validation, and guardrails
-- Vector search with ChromaDB and Pinecone
-- Arabic and English AI applications
-- Backend systems for AI products with FastAPI
+### [Emberbyte](https://github.com/Khaledbahaaeldin/DataKB) --- Open-Source Android Data Monitor & Analytics
+An open-source Android data monitor featuring a Material 3 Expressive interface for daily/real-time mobile and Wi-Fi usage tracking.
+- **Multi-Module Architecture**: Built across `:app`, `:core:engine`, `:core:data`, `:feature:lens`, and `:ui:design` using Kotlin and Jetpack Compose.
+- **Flexible Plans & Engine**: Features per-SIM binding, custom billing cycles, add-on packs, usage rollover, and free-usage windows (e.g. night data).
+- **Forecasting & Alerts**: Statistical run-out forecasting engine with confidence intervals, proactive threshold notifications, and Glance home-screen widgets.
+- **On-Device Live Lens**: Privacy-first local VPN engine for real-time per-app socket traffic attribution without external leaks.
+- **Stack**: Kotlin, Jetpack Compose, Material 3, Android SDK (API 37), Jetpack Glance, Room, WorkManager, Coroutines/Flow.
+
+### [SEKMED](https://github.com/OmarAminAI/sek_med) --- AI-Powered Healthcare RAG & Triage Assistant
+An AI-assisted medical triage and healthcare knowledge platform developed as a graduation capstone project.
+- Implemented a Retrieval-Augmented Generation (RAG) pipeline to ground AI medical responses using validated healthcare domain corpora.
+- Built **FastAPI** backend services for symptom assessment, personalized recommendations, and Fitbit health-data vitals integration.
+- Designed **React** web dashboards with Tailwind CSS and Material UI for patient symptom intake and triage interaction.
+- **Stack**: Python, FastAPI, React, RAG, Pinecone, LLaMA / Groq, Fitbit API, REST APIs.
+
+### [Carveo](https://github.com/OmarAminAI/Carveo) --- AI Vehicle Listing Extractor
+An LLM-driven automation application transforming unstructured free-text vehicle listings into validated structured data.
+- Built LangChain pipelines with Pydantic schema validation, prompt-injection defense, and automated input sanitization.
+- Integrated **Azure OpenAI GPT-4** for extraction, structured JSON generation, and automated email delivery.
+- **Stack**: Python, LangChain, Azure OpenAI, Streamlit, Pydantic, SMTP.
+
+### [CodeWise](https://github.com/OmarAminAI/CodeWise) --- AI Codebase Intelligence Platform
+Developer intelligence platform for ingesting GitHub repositories, chunking and embedding codebases, building semantic indexes, and enabling conversational debugging and architecture exploration.
+- **Stack**: Python, Flask, LangChain, Vector Embeddings, Ollama / OpenAI / Azure OpenAI.
+
+---
+
+## AI & Engineering Focus
+
+- **Large Language Models (LLMs)**: OpenAI / Azure OpenAI, Groq, Ollama, LLaMA, Structured Outputs, Function Calling
+- **Agentic AI & Workflows**: LangGraph, LangChain, Microsoft AutoGen, Multi-agent collaboration, Tool use
+- **Retrieval-Augmented Generation (RAG)**: Asynchronous document ingestion, chunking strategies, vector search (ChromaDB, Pinecone, Qdrant)
+- **High-Performance Backends**: FastAPI, Celery, Redis, PostgreSQL, Prisma, WebSockets, Server-Sent Events (SSE)
+- **Mobile & Frontend**: Android SDK, Jetpack Compose, Material 3 Expressive, React, Next.js, Streamlit
 
 ---
 
@@ -86,31 +94,37 @@ Unity educational game enhanced with Microsoft AutoGen agent integration through
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-### Machine Learning and Software Engineering
+### Mobile, Frontend, and Core Languages
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Programming-2563EB?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-FF4088?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
 
-### Cloud, Platforms, and Governance
+### Cloud, DevOps, and Tools
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![IoT Systems](https://img.shields.io/badge/IoT_Systems-00BFA6?style=for-the-badge)
-![ISO 42001](https://img.shields.io/badge/ISO_42001-AI_Governance-4B5563?style=for-the-badge)
-![GUI](https://img.shields.io/badge/GUI-Development-6B7280?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## Certifications & Achievements
+
+- **Generative AI: Introduction and Applications** — IBM
+- **Natural Language Processing with Attention Models** — DeepLearning.AI
+- **Computer Vision for Engineering and Science Specialization** — MathWorks
+- **AWS Cloud Technical Essentials** — AWS
+- **ICPC ECPC 2021** — Ranked **40th out of 180+ teams**, representing Alamein International University
 
 ---
 
@@ -131,25 +145,9 @@ Unity educational game enhanced with Microsoft AutoGen agent integration through
   </a>
 </p>
 
----
-
-## Developer Snapshot
-
-- Currently focused on: **Applied AI systems, LLM-powered tools, backend services, and software engineering**
-- Continuously learning: **advanced ML systems, scalable deployment, and trustworthy AI practices**
-- Exploring: **healthcare AI, secure LLM workflows, and RAG-based applications**
-- Favorite stack: **Python + FastAPI + LangChain/LangGraph + LLM APIs**
-- Highlight: Ranked **40th out of 180+ teams** in **ICPC ECPC 2021**
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarAminAI&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
-
----
-
-## Certificates and Achievements
-
-- **ICPC ECPC 2021** - Ranked **40th out of 180+ teams**, representing Alamein International University.
 
 ---
 
