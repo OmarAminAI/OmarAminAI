@@ -49,7 +49,7 @@ An open-source Android data monitor featuring a Material 3 Expressive interface 
 - **On-Device Live Lens**: Privacy-first local VPN engine for real-time per-app socket traffic attribution without external leaks.
 - **Stack**: Kotlin, Jetpack Compose, Material 3, Android SDK (API 37), Jetpack Glance, Room, WorkManager, Coroutines/Flow.
 
-### [SEKMED](https://github.com/OmarAminAI/sek_med) --- AI-Powered Healthcare RAG & Triage Assistant
+### [SEKMED](https://sekmed.vercel.app/) --- AI-Powered Healthcare RAG & Triage Assistant
 An AI-assisted medical triage and healthcare knowledge platform developed as a graduation capstone project.
 - Implemented a Retrieval-Augmented Generation (RAG) pipeline to ground AI medical responses using validated healthcare domain corpora.
 - Built **FastAPI** backend services for symptom assessment, personalized recommendations, and Fitbit health-data vitals integration.
